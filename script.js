@@ -36,7 +36,7 @@ console.log(listaaa[5]) //imprime la posicion 5
 const Jhojan = {
     nombre: "Jhojan",
     edad: "20",
-    trbajo: "noxdxd",
+    trbajo: "si",
     contextura: "delgada",
     juegostiene: ["RE2", "RE3", "GOW"]
 }
@@ -48,10 +48,10 @@ console.log(Jhojan.juegostiene[1]) // listas dentro de un objeto
 
 
 const persona = {
-    nombre: "Nell",
+    nombre: "Rodolfa",
     edad: "20",
     trbajo: "si",
-    contextura: "delgada",
+    contextura: "gorda",
     juegostiene: ["RE2", "RE3", "GOW"]
 }
 //acceder a un atributo por variable(recordar que son strings ejp: "nombre" - "edad" - "juegos" etc)
@@ -138,7 +138,7 @@ poto()
 
 // //funcion es un (componente) y el nombre del componente tiene que iniciar en mayuscula
 // const App = () =>{
-//   const saludo = "Hola Jhojammmnnnnn";
+//   const saludo = "hiihiii";
 //   const a= 30;
 //   const b = 34;
 //   const suma = a+b;
@@ -150,8 +150,8 @@ poto()
 //       {saludo + saludo + " El pepe"}
 //       {suma}
 
-//       <h1>Que fue mano :v</h1>
-//       <p>sdfsadasdadasdasdas</p>
+//       <h1>test</h1>
+//       <p>test ppp</p>
       
 
 //     </div>
